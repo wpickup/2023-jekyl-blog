@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="pingback" href="http://williampickup.org/xmlrpc.php" />
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.7 - http://yoast.com/wordpress/seo/ -->
+<title>Page Not Found | musings from the slowlane</title>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="musings from the slowlane &raquo; Feed" href="http://williampickup.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="musings from the slowlane &raquo; Comments Feed" href="http://williampickup.org/comments/feed/" />
+<link rel='stylesheet' id='jetpack-widgets-css'  href='http://williampickup.org/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003' type='text/css' media='all' />
+<link rel='stylesheet' id='woodojo-muso-widgets-pack-css'  href='http://williampickup.org/wp-content/plugins/woodojo-downloads/woodojo-muso-widgets-pack/assets/css/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-stylesheet-css'  href='http://williampickup.org/wp-content/themes/canvas/style.css?ver=5.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='http://williampickup.org/wp-content/themes/canvas/css/layout.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sharedaddy-css'  href='http://williampickup.org/wp-content/plugins/jetpack/modules/sharedaddy/sharing.css?ver=2.2.5' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link href="http://williampickup.org/wp-content/themes/canvas/css/non-responsive.css" rel="stylesheet" type="text/css" />
+<style type="text/css">.col-full, #wrapper { width: 860px; max-width: 860px; } #inner-wrapper { padding: 0; } body.full-width #header, #nav-container, body.full-width #content, body.full-width #footer-widgets, body.full-width #footer { padding-left: 0; padding-right: 0; }</style>
+<![endif]-->
+<script type='text/javascript' src='http://williampickup.org/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://williampickup.org/wp-content/plugins/wp-juicebox/jbcore/juicebox.js?ver=1.2.0.1'></script>
+<script type='text/javascript' src='http://williampickup.org/wp-content/themes/canvas/includes/js/third-party.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://williampickup.org/wp-content/themes/canvas/includes/js/modernizr.js?ver=2.6.2'></script>
+<script type='text/javascript' src='http://williampickup.org/wp-content/themes/canvas/includes/js/jquery.flexslider.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://williampickup.org/wp-content/themes/canvas/includes/js/general.js?ver=3.5.1'></script>
+
+<!-- Adjust the website width -->
+<style type="text/css">
+	.col-full, #wrapper { max-width: 860px !important; }
+</style>
+
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://williampickup.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://williampickup.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.5.1" />
+
+<!-- Theme version -->
+<meta name="generator" content="Canvas 5.2.3" />
+<meta name="generator" content="WooFramework 5.5.5" />
+
+<!-- Custom CSS Styling -->
+<style type="text/css">
+body {background-color:#f6f6f6;background-repeat:no-repeat;background-position:top left;background-attachment:scroll;border-top:0px solid #000000;}
+a:link, a:visited {color:#2582ad}
+a:hover, .post-more a:hover, .post-meta a:hover, .post p.tags a:hover {color:#0e668c}
+#header {background-repeat:no-repeat;background-position:top center;margin-top:20px;margin-bottom:0px;padding-top:40px;padding-bottom:30px;border:0px solid ;}
+#logo {padding-left:20px;}#logo .site-title a {font:bold 40px/1em "Helvetica Neue", Helvetica, sans-serif;color:#000000;}
+#logo .site-description {font:300 13px/1em "Helvetica Neue", Helvetica, sans-serif;color:#ffffff;}
+#wrapper {padding-left:30px; padding-right:30px;background-color:#ffffff;margin-top:20px;margin-bottom:20px;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px;box-shadow: 0px 1px 5px rgba(0,0,0,.1);} @media only screen and (max-width:767px) { #wrapper { padding-left: 0; padding-right: 0;} } 
+body, p { font:300 14px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#555555; }
+h1 { font:bold 28px/1.2em "Helvetica Neue", Helvetica, sans-serif;color:#222222; }h2 { font:bold 24px/1.2em "Helvetica Neue", Helvetica, sans-serif;color:#222222; }h3 { font:bold 20px/1.2em "Helvetica Neue", Helvetica, sans-serif;color:#222222; }h4 { font:bold 16px/1.2em "Helvetica Neue", Helvetica, sans-serif;color:#222222; }h5 { font:bold 14px/1.2em "Helvetica Neue", Helvetica, sans-serif;color:#222222; }h6 { font:bold 12px/1.2em "Helvetica Neue", Helvetica, sans-serif;color:#222222; }
+.post .title, .page .title, .post .title a:link, .post .title a:visited, .page .title a:link, .page .title a:visited {font:bold 28px/1.1em "Helvetica Neue", Helvetica, sans-serif;color:#222222;}
+.post-meta { font:300 12px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#999999; }
+.entry, .entry p{ font:normal 18px/1.5em Palatino, "Palatino Linotype", serif;color:#555555; }
+.post-more {font:300 13px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:;border-top:0px solid #e6e6e6;border-bottom:0px solid #e6e6e6;}
+#post-author, #connect {border-top:1px solid #e6e6e6;border-bottom:1px solid #e6e6e6;border-left:1px solid #e6e6e6;border-right:1px solid #e6e6e6;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;background-color:#fafafa}
+.nav-entries a, .woo-pagination { font:300 13px/1em "Helvetica Neue", Helvetica, sans-serif;color:#888; }
+.woo-pagination a, .woo-pagination a:hover {color:#888!important}
+.widget h3 {font:bold 14px/1.2em "Helvetica Neue", Helvetica, sans-serif;color:#555555;border-bottom:1px solid #e6e6e6;}
+.widget_recent_comments li, #twitter li { border-color: #e6e6e6;}
+.widget p, .widget .textwidget { font:300 13px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#555555; }
+.widget {font:300 13px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#555555;border-radius:0px;-moz-border-radius:0px;-webkit-border-radius:0px;}
+#tabs .inside li a, .widget_woodojo_tabs .tabbable .tab-pane li a { font:bold 12px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#555555; }
+#tabs .inside li span.meta, .widget_woodojo_tabs .tabbable .tab-pane li span.meta { font:300 11px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#999999; }
+#tabs ul.wooTabs li a, .widget_woodojo_tabs .tabbable .nav-tabs li a { font:300 11px/2em "Helvetica Neue", Helvetica, sans-serif;color:#999999; }
+@media only screen and (min-width:768px) {
+ul.nav li a, #navigation ul.rss a, #navigation .cart-contents, #navigation ul.rss { font:normal 15px/1em Georgia, serif;color:#333; }
+#navigation ul.nav > li a:hover, #navigation ul.nav > li:hover, #navigation ul.nav li ul {background-color:#eee!important}
+#navigation ul.nav li ul  { border: 1px solid #dbdbdb; }
+#navigation ul.nav > li  { border-right: 1px solid #dbdbdb; }#navigation ul li:first-child, #navigation ul li:first-child a { border-radius:5px 0 0 5px; -moz-border-radius:5px 0 0 5px; -webkit-border-radius:5px 0 0 5px; }
+#navigation {background:#ddd;border-top:1px solid #ccc;border-bottom:1px solid #ccc;border-left:1px solid #dbdbdb;border-right:1px solid #dbdbdb;border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px;}
+#top ul.nav li a:hover, #top ul.nav li.current_page_item a, #top ul.nav li.current_page_parent a,#top ul.nav li.current-menu-ancestor a,#top ul.nav li.current-cat a,#top ul.nav li.current-menu-item a,#top ul.nav li.sfHover, #top ul.nav li ul, #top ul.nav > li:hover a, #top ul.nav li ul li a { color:#000000!important;}
+#top ul.nav li a { font:300 12px/1.6em "Helvetica Neue", Helvetica, sans-serif;color:#ddd; }
+}
+#footer, #footer p { font:300 13px/1.4em "Helvetica Neue", Helvetica, sans-serif;color:#999999; }
+#footer {background-color:000000;border-top:3px solid #dbdbdb;border-bottom:0px solid ;border-left:0px solid ;border-right:0px solid ;border-radius:0px; -moz-border-radius:0px; -webkit-border-radius:0px;}
+.magazine #loopedSlider .content h2.title a { font:bold 24px/1em Arial, sans-serif;color:#ffffff; }
+.magazine #loopedSlider .content .excerpt p { font:300 13px/1.5em Arial, sans-serif;color:#cccccc; }
+.magazine .block .post .title, .magazine .block .post .title a { font:bold 18px/1.2em "Helvetica Neue", Helvetica, sans-serif;color:#222222; }
+.business #loopedSlider .content h2 { font:bold 24px/1em Arial, sans-serif;color:#ffffff; }
+.business #loopedSlider .content h2.title a { font:bold 24px/1em Arial, sans-serif;color:#ffffff; }
+#wrapper .business #loopedSlider .content p { font:300 13px/1.5em Arial, sans-serif;color:#cccccc; }
+.archive_header { font:bold 18px/1em Arial, sans-serif;color:#222222; }
+.archive_header {border-bottom:1px solid #e6e6e6;}
+</style>
+
+<!-- Woo Shortcodes CSS -->
+<link href="http://williampickup.org/wp-content/themes/canvas/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="http://williampickup.org/wp-content/themes/canvas/custom.css" rel="stylesheet" type="text/css" />
+
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+<!--  Mobile viewport scale -->
+<meta content="initial-scale=1.0, maximum-scale=1.0, user-scalable=yes" name="viewport"/>
+</head>
+<body class="error404 unknown alt-style-default boxed-layout two-col-left width-860 two-col-left-860">
+<div id="wrapper">
+
+	<div id="inner-wrapper">
+
+	
+	<header id="header" class="col-full">
+
+		<div id="logo">
+<span class="site-title"><a href="http://williampickup.org/">musings from the slowlane</a></span>
+</div>
+<h3 class="nav-toggle icon"><a href="#navigation">Navigation</a></h3>
+
+	</header>
+	<nav id="navigation" class="col-full" role="navigation">
+
+	<section class="menus">
+
+		<ul class="rss fr">
+						<li class="sub-rss"><a href="http://williampickup.org/feed/"></a></li>
+			</ul>
+	
+	<a href="http://williampickup.org" class="nav-home"><span>Home</span></a>
+
+	<h3>Primary</h3><ul id="main-nav" class="nav fl"><li id="menu-item-411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-411"><a href="http://williampickup.org">Home</a></li>
+<li id="menu-item-512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512"><a href="http://williampickup.org/photography/">Photography</a>
+<ul class="sub-menu">
+	<li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="http://williampickup.org/photography/trampingnz/">Tramping in NZ</a></li>
+	<li id="menu-item-970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-970"><a href="http://williampickup.org/photography/kyoto/">Kyoto 2012</a></li>
+	<li id="menu-item-972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-972"><a href="http://williampickup.org/photography/wilsons-promontory/">Wilsons Promontory</a></li>
+</ul>
+</li>
+<li id="menu-item-928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-928"><a href="http://williampickup.org/resources/">Resources</a></li>
+<li id="menu-item-513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-513"><a href="http://williampickup.org/archives/">Archives</a></li>
+<li id="menu-item-514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-514"><a href="http://williampickup.org/about/">About</a></li>
+<li id="menu-item-641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-641"><a href="http://williampickup.org/contact/">Contact</a></li>
+</ul>	</section><!-- /.menus -->
+
+	<a href="#top" class="nav-close"><span>Return to Content</span></a>
+
+</nav>
+
+    <!-- #content Starts -->
+	    <div id="content" class="col-full">
+		
+    	<div id="main-sidebar-container">
+
+            <!-- #main Starts -->
+                        <section id="main" class="col-left">
+<article class="">
+
+	<header>
+		<h1 class="title">Error 404 - Page not found!</h1>	</header>
+	
+	<section class="entry">
+	    The page you are trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for.	</section><!-- /.entry -->
+</article><!-- /.post -->
+            </section><!-- /#main -->
+                
+            <aside id="sidebar">
+	<div id="woo_search-3" class="widget widget_woo_search"><div class="search_main">
+    <form method="get" class="searchform" action="http://williampickup.org/" >
+        <input type="text" class="field s" name="s" value="Search..." onfocus="if (this.value == 'Search...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}" />
+                <button type="submit" class="icon-search submit" name="submit" value=""></button>
+    </form>    
+    <div class="fix"></div>
+</div>
+</div><div id="categories-5" class="widget widget_categories"><h3>Categories</h3><select name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="2">Books</option>
+	<option class="level-0" value="3">Ceramics</option>
+	<option class="level-0" value="5">Craft</option>
+	<option class="level-0" value="6">Culture</option>
+	<option class="level-0" value="7">Design</option>
+	<option class="level-0" value="8">Ethical</option>
+	<option class="level-0" value="10">Health</option>
+	<option class="level-0" value="11">Money</option>
+	<option class="level-0" value="12">Music</option>
+	<option class="level-0" value="16">Simplicity</option>
+	<option class="level-0" value="17">Small Farms</option>
+	<option class="level-0" value="18">Spirit</option>
+	<option class="level-0" value="19">Technology</option>
+	<option class="level-0" value="1">Uncategorized</option>
+	<option class="level-0" value="20">Walking</option>
+	<option class="level-0" value="21">Work</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+	var dropdown = document.getElementById("cat");
+	function onCatChange() {
+		if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+			location.href = "http://williampickup.org/?cat="+dropdown.options[dropdown.selectedIndex].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+/* ]]> */
+</script>
+
+</div></aside><!-- /#sidebar -->
+
+		</div><!-- /#main-sidebar-container -->         
+
+		        
+    </div><!-- /#content -->
+			
+<section id="footer-widgets" class="col-full col-3">
+				<div class="block footer-widget-1">
+    	<div id="tag_cloud-2" class="widget widget_tag_cloud"><h3>Tags</h3><div class="tagcloud"><a href='http://williampickup.org/tag/ambleside/' class='tag-link-33' title='1 topic' style='font-size: 8pt;'>Ambleside</a>
+<a href='http://williampickup.org/tag/architecture/' class='tag-link-45' title='1 topic' style='font-size: 8pt;'>Architecture</a>
+<a href='http://williampickup.org/tag/chickens-2/' class='tag-link-35' title='3 topics' style='font-size: 22pt;'>Chickens</a>
+<a href='http://williampickup.org/tag/decisions/' class='tag-link-42' title='1 topic' style='font-size: 8pt;'>decisions</a>
+<a href='http://williampickup.org/tag/environment/' class='tag-link-50' title='1 topic' style='font-size: 8pt;'>environment</a>
+<a href='http://williampickup.org/tag/food-diet/' class='tag-link-49' title='1 topic' style='font-size: 8pt;'>food diet</a>
+<a href='http://williampickup.org/tag/green-building/' class='tag-link-32' title='1 topic' style='font-size: 8pt;'>Green Building</a>
+<a href='http://williampickup.org/tag/lake-district/' class='tag-link-34' title='1 topic' style='font-size: 8pt;'>Lake District</a>
+<a href='http://williampickup.org/tag/mind-map/' class='tag-link-41' title='1 topic' style='font-size: 8pt;'>mind map</a>
+<a href='http://williampickup.org/tag/music/' class='tag-link-12' title='2 topics' style='font-size: 16.4pt;'>Music</a>
+<a href='http://williampickup.org/tag/permaculture/' class='tag-link-47' title='2 topics' style='font-size: 16.4pt;'>Permaculture</a>
+<a href='http://williampickup.org/tag/photography-3/' class='tag-link-31' title='3 topics' style='font-size: 22pt;'>Photography</a>
+<a href='http://williampickup.org/tag/presenting/' class='tag-link-44' title='1 topic' style='font-size: 8pt;'>presenting</a>
+<a href='http://williampickup.org/tag/running/' class='tag-link-43' title='1 topic' style='font-size: 8pt;'>running</a>
+<a href='http://williampickup.org/tag/sleep/' class='tag-link-48' title='1 topic' style='font-size: 8pt;'>sleep</a>
+<a href='http://williampickup.org/tag/video/' class='tag-link-46' title='2 topics' style='font-size: 16.4pt;'>video</a>
+<a href='http://williampickup.org/tag/walking/' class='tag-link-20' title='1 topic' style='font-size: 8pt;'>Walking</a>
+<a href='http://williampickup.org/tag/walking-featured/' class='tag-link-40' title='1 topic' style='font-size: 8pt;'>walking_featured</a></div>
+</div>	</div>
+        				<div class="block footer-widget-2">
+    	<div id="pinboard-1" class="widget widget_pinboard"><h3><a href="http://pinboard.in/u:wpickup" class="pinboard_title_link">Latest Pinboard Links</a></h3><ul class="pinboard"><li class="pinboard-item"><a href="http://pdxlivingbuilding.com/" class="pinboard-link">the commons</a></li><li class="pinboard-item"><a href="http://meyerweb.com/eric/thoughts/2013/05/08/resurrected-landmarks/" class="pinboard-link">Eric's Archived Thoughts: Resurrected Landmarks</a></li><li class="pinboard-item"><a href="http://www.infoq.com/presentations/Pinterest" class="pinboard-link">Scaling Pinterest</a></li><li class="pinboard-item"><a href="http://www.small-scale.net/yearofmud/2013/04/12/timber-framing-and-straw-bale-building/" class="pinboard-link">Timber Framing and Straw Bale: The Perfect Marriage?</a></li><li class="pinboard-item"><a href="http://homeplaceearth.wordpress.com/2013/04/02/seed-libraries/" class="pinboard-link">Seed Libraries</a></li></ul></div>	</div>
+        				<div class="block footer-widget-3">
+    	<div id="woo_flickr-4" class="widget widget_woo_flickr"><h3>Photos on <span>flick<span>r</span></span></h3><div class="wrap">
+<div class="fix"></div><!--/.fix-->
+<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?layout=x&amp;count=3&amp;display=random&amp;source=user&amp;user=88982911@N00&amp;size=m"></script>
+<div class="fix"></div><!--/.fix-->
+</div><!--/.wrap-->
+</div>	</div>
+        		<div class="fix"></div>
+</section><!--/#footer-widgets-->
+	<footer id="footer" class="col-full">
+
+		
+		<div id="copyright" class="col-left">
+			<p>&copy; 2013 musings from the slowlane. All Rights Reserved. </p>		</div>
+
+		<div id="credit" class="col-right">
+			<p>Powered by <a href="http://wordpress.org/" title="WordPress">WordPress</a>. Designed by <a href="http://www.woothemes.com/" title="WooThemes"><img src="http://williampickup.org/wp-content/themes/canvas/images/woothemes.png" width="74" height="19" alt="Woo Themes" /></a></p>		</div>
+
+	</footer>
+
+	
+	</div><!-- /#inner-wrapper -->
+
+</div><!-- /#wrapper -->
+
+<div class="fix"></div><!--/.fix-->
+
+	<div style="display:none">
+	</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35712111-2']);
+  _gaq.push(['_setDomainName', 'williampickup.org']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<script type='text/javascript' src='http://williampickup.org/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201323'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2013Junaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://williampickup.org/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.5.1'></script>
+
+	<script src="http://stats.wordpress.com/e-201323.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:2.2.5',blog:'48375738',post:'0',tz:'0'});
+	var load_cmc = function(){linktracker_init(48375738,0,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script></body>
+</html>
