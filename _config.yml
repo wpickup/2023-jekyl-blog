@@ -59,9 +59,9 @@ plugins:
   - jekyll-remote-theme
 
 author:
-  name   : "William Pickup"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name: "William Pickup"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Husband, walker, maker"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
