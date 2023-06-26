@@ -70,7 +70,7 @@ author:
       icon: "fab fa-fw fa-mastodon"
       url: "https://theblower.au/@Williamp"
     - label: "Glass"
-      icon: "/assets/images/Glass-square-light.png"
+      icon: "fas fa-fw fa-camera"
       url: "https://glass.photo/wpickup"
 
 footer:
