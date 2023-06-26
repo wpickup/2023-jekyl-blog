@@ -26,7 +26,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 # Outputting
 permalink: /:title/
 paginate: 5 # amount of posts to show
@@ -60,33 +60,27 @@ plugins:
 
 author:
   name: "William Pickup"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "Husband, walker, maker"
+  avatar: "/assets/images/bio-photo.webp"
+  bio: "Walker, Ocean Pool swimmer, Maker"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://williampickup.org"
+    - label: "Mastadon"
+      icon: "fab fa-fw fa-mastadon-square"
+      url: "@william@theblower.com.au"
+    - label: "Glass"
+      icon: "fab fa-fw fa-glass"
+      url: "https://glass.photo/wpickup"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Mastadon"
+      icon: "fab fa-fw fa-mastadon-square"
+      url: "@william@theblower.com.au"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
