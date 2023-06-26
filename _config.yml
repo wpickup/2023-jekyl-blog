@@ -70,7 +70,7 @@ author:
       icon: "fab fa-fw fa-mastodon"
       url: "https://theblower.au/@Williamp"
     - label: "Glass"
-      icon: "/assets/images/Glass-square-light.svg"
+      icon: "/assets/images/Glass-square-light.png"
       url: "https://glass.photo/wpickup"
 
 footer:
@@ -90,9 +90,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
+      read_time: false
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
