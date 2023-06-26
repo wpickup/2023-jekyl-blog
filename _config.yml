@@ -61,7 +61,7 @@ plugins:
 author:
   name: "William Pickup"
   avatar: "/assets/images/bio-photo.webp"
-  bio: "Walker, Ocean Pool swimmer, Maker"
+  bio: "Walker, Maker"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

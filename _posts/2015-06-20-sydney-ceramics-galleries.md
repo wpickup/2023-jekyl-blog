@@ -9,7 +9,7 @@ categories:
 
 There are some excellent galleries in Sydney that focus on displaying the work of local artists and providing exhibition space.
 
-I am sure its a labour of love for most of the gallery owners as the market is not large and the work required to mount a successful exhibition is signifcant.
+I am sure its a labour of love for most of the gallery owners as the market is not large and the work required to mount a successful exhibition is significant.
 
 - [Crackpot](https://www.crackpot.com.au) at Freshwater, regularly changing exhibits of local ceramics from Northern Beaches artists
 
