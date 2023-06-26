@@ -67,17 +67,17 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://williampickup.org"
     - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon-square"
-      url: "@william@theblower.com.au"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://theblower.au/@Williamp"
     - label: "Glass"
-      icon: "Glass-square-light.svg"
+      icon: "/assets/images/Glass-square-light.svg"
       url: "https://glass.photo/wpickup"
 
 footer:
   links:
     - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon-square"
-      url: "@william@theblower.com.au"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://theblower.au/@Williamp"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
