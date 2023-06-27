@@ -33,4 +33,4 @@ The course is well structured and its clear that Geoff has given it many times. 
 [^1]:	Another great benefit is that the course text, [Bill Mollisons' Permaculture Designers Guide][tagari]  which I had previously found heavy going, has undergone a sort of decoding and now reveals itself as and incredible useful manual which supports the course content with additional depth and paths to study. 
 
 [tagari]: http://www.tagari.com/home
-[williampickup]: http://www.williampickup.org/blog/permaculture-and-online-learning
+[williampickup]: http://blog.williampickup.org/permaculture-and-online-learning
