@@ -5,6 +5,8 @@ date: 2015-06-20 00:00:00 +0000
 layout: single
 categories:
   - Craft
+header:
+  image: /assets/images/sydney-ceramics-shops.jpeg
 ---
 
 There are some excellent galleries in Sydney that focus on displaying the work of local artists and providing exhibition space.
