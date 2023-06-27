@@ -3,3 +3,9 @@ main:
     url: /posts/
   - title: "Categories"
     url: /categories/
+  - title: "Now"
+    url: /now/
+  - title: "Contact"
+    url: /contact/
+  - title: "About"
+    url: /about/

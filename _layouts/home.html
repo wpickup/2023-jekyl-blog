@@ -1,0 +1,31 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<h3>Hello, my name is William Pickup</h3>
+<p>
+  I live on <a href="">Sydneys' Northern Beaches</a>, where I enjoy and
+  <a href="">running</a>, <a href="">swimming</a>, and
+  <a href="">slowly making things in my workshop</a>.
+</p>
+
+<h3>What am I doing now?</h3>
+<p>See <a href="/now">my “now” page</a></p>
+
+<hr />
+
+<h3 class="archive__subtitle">
+  {{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}
+</h3>
+
+{% if paginator %} {% assign posts = paginator.posts %} {% else %} {% assign
+posts = site.posts %} {% endif %} {% assign entries_layout = page.entries_layout
+| default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %} {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}
