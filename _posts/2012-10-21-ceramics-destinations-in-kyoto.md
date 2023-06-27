@@ -21,7 +21,7 @@ The following are worth considering if you are in Kyoto and interested in Cerami
 
 We have visited this beautiful old merchants house with its huge climbing kiln several times and always found it rewarding. The enormous climbing kiln and beautifully preserved house are worth spending some time exploring.
 
-![Interior of Kawai Kanjiro's house](/assets/images/Kawai-house-interior.jpeg)
+![Interior of Kawai Kanjiro's house](/assets/images/kawai-house-interior.jpeg)
 
 [Kawai Kanjiro][wikipedia] was a key player in Soetsu Yanangi's ["Mingei"][wikipedia 2] movement[^1] in partnership Shoji Hamada, Kenichi Tomimoto and [Bernard Leach][wikiclay].
 
