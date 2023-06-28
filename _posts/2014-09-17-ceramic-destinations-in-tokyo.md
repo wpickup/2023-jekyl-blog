@@ -6,9 +6,11 @@ layout: single
 categories:
   - Craft
   - Travel
+  - Japan
 tags:
 header:
-  image: /assets/images/2014/09/IMG_0063-1024x591.jpg
+  image: /assets/images/mingeikan-sign-1024x591.jpg
+teaser: /assets/images/mingeikan-sign-teaser.jpg
 ---
 
 The most popular post on Slowlane has been [Ceramics Destinations in Kyoto](http://blog.williampickup.org/ceramics-destinations-in-kyoto), this post seeks to provide the same information for a Tokyo visitor.

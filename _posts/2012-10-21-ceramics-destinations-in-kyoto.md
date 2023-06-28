@@ -11,6 +11,7 @@ categories:
 tags:
 header:
   image: /assets/images/Kawai-house-front.jpeg
+teaser: /assets/images/Kawai-house-front-teaser.jpeg
 ---
 
 The following are worth considering if you are in Kyoto and interested in Ceramics.
