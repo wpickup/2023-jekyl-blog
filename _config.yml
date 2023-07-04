@@ -105,3 +105,8 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "williampickup"
