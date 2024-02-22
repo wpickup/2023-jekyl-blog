@@ -8,6 +8,7 @@ categories:
 header:
   image: /assets/images/sydney-ceramics-shops.jpeg
 ---
+<img alt="crackpot" src="https://media.publit.io/file/sydney-ceramics-shops.jpeg">
 
 There are some excellent galleries in Sydney that focus on displaying the work of local artists and providing exhibition space.
 
