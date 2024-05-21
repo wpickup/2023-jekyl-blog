@@ -9,6 +9,14 @@ author_profile: false
 
 (This is <a href="https://nownownow.com/about">a now page</a>, and if you have your own site, <a href="https://nownownow.com/about">you should make one</a>, too.)
 
+### Updated May 21, 2024.
+
+Recently retired from full time work, still finding my new rhythm.
+
+Ending up committing to the campervan and looking forward to getting out there.
+
+We now have a 9 month old standard poodle, I’ve been keen on one ever since I read [Travels with Charlie](https://www.goodreads.com/book/show/5306.Travels_with_Charley).
+
 ### Updated May 18th, 2023.
 
 Getting into being 60, some things are harder, others easier.
