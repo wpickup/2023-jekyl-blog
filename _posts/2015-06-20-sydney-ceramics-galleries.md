@@ -14,7 +14,7 @@ There are some excellent galleries in Sydney that focus on displaying the work o
 
 I am sure its a labour of love for most of the gallery owners as the market is not large and the work required to mount a successful exhibition is significant.
 
-- [Crackpot](https://www.crackpot.com.au) at Freshwater, regularly changing exhibits of local ceramics from Northern Beaches artists
+- [Crackpot](https://www.crackpot.com.au) at Freshwater, regularly changing exhibits of local ceramics from Northern Beaches artists. *Sadly Crackpot has recently closed.*
 
 - [Chinaclay](https://chinaclay.com.au/collections/ceramics) in Clovelly, combines a florist with a ceramics gallery "representing over 20 independent small batch ceramics artists"
 
@@ -22,4 +22,4 @@ I am sure its a labour of love for most of the gallery owners as the market is n
 
 - [Sabbia](https://sabbiagallery.com) in Redfern, aims to represent " Australia’s finest contemporary artists, focusing on ceramics, glass and fibre"
 
-If in the mood to travel further afield, the [Sturt gallery](https://www.sturt.nsw.edu.au/sturt-campus/sturt-gallery) in Mittagong always has an eclectic mix of work with a focus furniture and ceramics.
+If in the mood to travel further afield, the [Sturt gallery](https://www.sturt.nsw.edu.au/sturt-campus/sturt-gallery) in Mittagong always has an eclectic mix of work with a focus furniture and ceramics. *Sturt gallery is also soon to close, a real loss to the ceramics community*
