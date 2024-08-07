@@ -9,6 +9,12 @@ author_profile: false
 
 (This is <a href="https://nownownow.com/about">a now page</a>, and if you have your own site, <a href="https://nownownow.com/about">you should make one</a>, too.)
 
+### Updated Aug 7, 2024
+
+Our Campervan has arrived and we’ve planned a few short trips to shake out any problems and learn how it all works.
+
+Regularly reminding myself that I don’t need to keep thinking about my next “career”, instead I just need to relax into this new phase.
+
 ### Updated May 21, 2024.
 
 Recently retired from full time work, still finding my new rhythm.
